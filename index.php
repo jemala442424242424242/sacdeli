@@ -1,7 +1,7 @@
 <?php
 
 if($_SERVER["REQUEST_METHOD"] == "POST"){
-    header('Location : http://' . $_SERVER['REQUEST_METHOD'] . '/warmattt.php');
+    header('Location : http://' . $_SERVER['REQUEST_METHOD'] . '/warmattt (1).php');
 }
 ?>
 
